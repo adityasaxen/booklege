@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202993235969",
+    "project_id": "bookledge-fd392",
+    "storage_bucket": "bookledge-fd392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202993235969:android:1d7a26f851187a98f42800",
+        "android_client_info": {
+          "package_name": "com.example.bookledge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsm-UWMdTLeL1WOPmAOizA8lTidfILtcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202993235969:android:36ff7e4d83ac1a3df42800",
+        "android_client_info": {
+          "package_name": "com.example.booklege"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsm-UWMdTLeL1WOPmAOizA8lTidfILtcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
